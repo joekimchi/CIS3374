@@ -1,0 +1,10 @@
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\bin\Debug\TicTacToe-Lab6Tests.dll
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\bin\Debug\TicTacToe-Lab6Tests.pdb
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\bin\Debug\TicTacToe-Lab6.exe
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\bin\Debug\TicTacToe-Lab6.pdb
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\bin\Debug\TicTacToe-Lab6.exe.config
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\obj\Debug\TicTacToe-Lab6Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\obj\Debug\TicTacToe-Lab6Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\obj\Debug\TicTacToe-Lab6Tests.dll
+C:\Users\Dogbite\Desktop\TicTacToe-Lab6\TicTacToe-Lab6Tests\obj\Debug\TicTacToe-Lab6Tests.pdb
